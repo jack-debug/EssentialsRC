@@ -35,12 +35,10 @@ max-nick-length: 25
 # A list of phrases that cannot be used in nicknames. You can include regular expressions here.
 # Users with essentials.nick.blacklist.bypass will be able to bypass this filter.
 nick-blacklist:
-#- Notch
-#- '^Dinnerbone'
 
 # When this option is enabled, nickname length checking will exclude color codes in player names.
 # ie: "&6Notch" has 7 characters (2 are part of a color code), a length of 5 is used when this option is set to true
-ignore-colors-in-max-nick-length: false
+ignore-colors-in-max-nick-length: true
 
 # When this option is enabled, display names for hidden users will not be shown. This prevents players from being
 # able to see that they are online while vanished.
@@ -332,7 +330,7 @@ enabledSigns:
 # How many times per second can Essentials signs be interacted with per player.
 # Values should be between 1-20, 20 being virtually no lag protection.
 # Lower numbers will reduce the possibility of lag, but may annoy players.
-sign-use-per-second: 4
+sign-use-per-second: 1
 
 # Allow item IDs on pre-existing signs on 1.13 and above.
 # You cannot use item IDs on new signs, but this will allow players to interact with signs that
