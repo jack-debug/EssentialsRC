@@ -1,11 +1,5 @@
 [![EssentialsX](https://i.imgur.com/CP4SZpB.png)](https://essentialsx.github.io)
 
-[<img alt="Jenkins" src="https://img.shields.io/badge/-Download_from_Jenkins-D24939.svg?logo=jenkins&style=flat-square&logoColor=white" height=32>](http://ci.ender.zone/job/EssentialsX/)
-
-[<img alt="Discord" src="https://img.shields.io/badge/-Chat_on_Discord-7289DA.svg?logo=discord&style=flat-square&logoColor=white" height=32>](https://discord.gg/casfFyh)
-
-[<img alt="Patreon" src="https://img.shields.io/badge/-Support_on_Patreon-F96854.svg?logo=patreon&style=flat-square&logoColor=white" height=32>](https://www.patreon.com/essentialsx)
-
 This is a fork of EssentialsX called EssentialsXOptimized.
 
 If you are using this, do **NOT** ask Essentials for support.
