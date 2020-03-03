@@ -1,8 +1,8 @@
 # This determines the command prefix when there are conflicts (/name:home, /name:help, etc.)
-name: EssentialsChat
+name: EssentialsChatOptimized
 main: com.earth2me.essentials.chat.EssentialsChat
 # Note to developers: This next line cannot change, or the automatic versioning system will break.
-version: ${full.version}
+version: ${full.version}X
 website: http://tiny.cc/EssentialsCommands
 description: Provides chat control features for Essentials.  Requires Permissions.
 authors: [JACK, jack only]
