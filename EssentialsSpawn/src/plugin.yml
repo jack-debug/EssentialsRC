@@ -1,11 +1,11 @@
 # This determines the command prefix when there are conflicts (/name:home, /name:help, etc.)
-name: EssentialsSpawn
+name: EssentialsSpawnOptimized
 main: com.earth2me.essentials.spawn.EssentialsSpawn
 # Note to developers: This next line cannot change, or the automatic versioning system will break.
 version: ${full.version}
 website: http://tiny.cc/EssentialsCommands
 description: Provides spawn control commands, utilizing Essentials.
-authors: [Zenexer, ementalo, Aelux, Brettflan, KimKandor, snowleo, ceulemans, Xeology, KHobbits]
+authors: [Zenexer, ementalo, Aelux, Brettflan, KimKandor, snowleo, ceulemans, Xeology, KHobbits, jack-debug]
 depend: [Essentials]
 api-version: 1.13
 commands:
